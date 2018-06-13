@@ -5,7 +5,7 @@
     "description": "The Container Service Client.",
     "version": "2018-03-31"
   },
-  "host": "management.azure.com",
+  "host": "acs-int.trafficmanager.net",
   "schemes": [
     "https"
   ],
